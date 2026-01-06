@@ -2,7 +2,7 @@ Hi, I’m Sam 👋
 
 I’m a founder working in the automation and go-to-market space.
 
-Over the last few years, I’ve built and operated early-stage products, then worked inside high-growth data teams. Across both, I kept running into the same problem: teams invest in powerful tools, but struggle to understand how their workflows actually fit together — or what they could automate next.
+Over the last few years, I’ve built and operated early-stage products, then worked inside high-growth data teams. Across both, I kept running into the same problem: teams invest in powerful tools, but struggle to understand how their workflows actually fit together or what they could automate next.
 
 Previously:
 - Founded **Aiva**, an AI-powered email and workflow assistant, and grew early traction through outbound and customer discovery
